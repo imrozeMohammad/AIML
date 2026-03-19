@@ -1,4 +1,4 @@
-**High-level explanation of code KNN:**
+**High-level explanation of code of KNN for Food Delivery Order Classification:**
 
 The K-Nearest Neighbors (KNN) algorithm is a simple, non-parametric, supervised machine learning method used for both classification and regression tasks. It operates on the principle that similar data points tend to be close to each other in a feature space.
 
